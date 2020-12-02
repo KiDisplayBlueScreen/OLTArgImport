@@ -1,6 +1,6 @@
 import xlwings as xw
 
-ExcelPath = "D:\OLT参数导入步骤\已填写参数\播植新合HW-OLT02-MA58002槽(未填写).xls"
+ExcelPath = ".xls"
 
 BASEIP = "119.146.99.73"
 NAS_SLOT = 7
